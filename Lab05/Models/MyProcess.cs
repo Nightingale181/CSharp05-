@@ -1,11 +1,10 @@
-﻿using Lab05.Tools.Manager;
-using Lab05.Properties;
+﻿using Lab05.Properties;
+using Lab05.Tools.Manager;
 using System;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Threading;
-using CSharp_05.Properties;
 
 namespace Lab05.Models
 {
